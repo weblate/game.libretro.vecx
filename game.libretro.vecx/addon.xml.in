@@ -20,7 +20,7 @@
 		<description>Source: https://github.com/libretro/libretro-vecx
 
 Supported files: .bin, .vec</description>
-		<license>GPLv2|LGPLv2.1</license>
+		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
 </addon>
