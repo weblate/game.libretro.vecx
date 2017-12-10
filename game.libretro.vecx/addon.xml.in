@@ -9,17 +9,15 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>vecx</platforms>
-		<extensions>bin|vec</extensions>
-		<supports_vfs>true</supports_vfs>
+		<extensions></extensions>
+		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Vectrex (vecx) 1.2</summary>
-		<description>Source: https://github.com/libretro/libretro-vecx
-
-Supported files: .bin, .vec</description>
+		<summary lang="en">Vectrex (vecx)</summary>
+		<description>Source: https://github.com/libretro/libretro-vecx</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
