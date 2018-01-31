@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vecx"
-		name="Vectrex (vecx)"
+		name="GCE - Vectrex (vecx)"
 		version="1.2.0"
 		provider-name="Libretro">
 	<requires>
@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Vectrex (vecx) 1.2</summary>
+		<summary lang="en">GCE - Vectrex (vecx) 1.2</summary>
 		<description>Vecx is a Vectrex video game system emulator. It can run most Vectrex software.
 
 Written by Richard Bannister.
