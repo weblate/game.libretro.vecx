@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">GCE - Vectrex (vecx) 1.2</summary>
-		<description>Vecx is a Vectrex video game system emulator. It can run most Vectrex software.
+		<summary lang="en_GB">GCE - Vectrex (vecx) 1.2</summary>
+		<description lang="en_GB">Vecx is a Vectrex video game system emulator. It can run most Vectrex software.
 
 Written by Richard Bannister.
 
