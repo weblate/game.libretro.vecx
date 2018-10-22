@@ -23,5 +23,6 @@ Written by Richard Bannister.
 Supported files: .bin, .vec</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.vecx</source>
 	</extension>
 </addon>
