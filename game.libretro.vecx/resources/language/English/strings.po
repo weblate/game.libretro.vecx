@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "#30001"
 msgid "Res Multiplier"
 msgstr ""
-
