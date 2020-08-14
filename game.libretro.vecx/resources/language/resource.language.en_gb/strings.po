@@ -23,3 +23,19 @@ msgstr ""
 msgctxt "#30001"
 msgid "Internal Resolution Multiplier"
 msgstr ""
+
+msgctxt "#30002"
+msgid "Scale vector display horizontally"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Scale vector display vertically"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Vertical shift"
+msgstr ""
