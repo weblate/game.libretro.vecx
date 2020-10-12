@@ -21,21 +21,45 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Internal Resolution Multiplier"
+msgid "Bloom brightness"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Scale vector display horizontally"
+msgid "Bloom width"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Scale vector display vertically"
+msgid "Line brightness"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Horizontal shift"
+msgid "Line width"
 msgstr ""
 
 msgctxt "#30005"
+msgid "Hardware Rendering Resolution"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Internal Resolution Multiplier"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Scale vector display horizontally"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Scale vector display vertically"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Vertical shift"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Use Hardware Rendering"
 msgstr ""
