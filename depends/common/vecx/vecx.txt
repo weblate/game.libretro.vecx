@@ -1,1 +1,1 @@
-vecx https://github.com/libretro/libretro-vecx/archive/d79460d225237ae83a669a7be778400ddb2525b9.zip
+vecx https://github.com/libretro/libretro-vecx/archive/7f8d42e0f5e891997afa72a639dbcc0f3be710c6.zip
