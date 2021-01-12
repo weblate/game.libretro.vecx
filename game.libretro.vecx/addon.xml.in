@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vecx"
 		name="GCE - Vectrex (vecx)"
-		version="1.2.0.13"
+		version="1.2.0.14"
 		provider-name="Valavan Manohararajah, John Hawthorn, Nikita Zimin, Demeth">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
